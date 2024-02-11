@@ -15,7 +15,7 @@ MindcraftAI, is a subscription-based AI platform offering a diverse range of AI 
 
 ## Tech Stack
 
-**FullStack:** Nextjs 14, TailwindCSS, OpenAi
+**FullStack:** Nextjs 14, Typescript, TailwindCSS, OpenAi
 
 **Database:** MySql, Postgress
 
@@ -31,6 +31,7 @@ MindcraftAI, is a subscription-based AI platform offering a diverse range of AI 
 - Flexible Free and Subscription Tiers for Users
 - Secure Payment Functionality Utilizing Stripe
 - Dedicated Customer Support Feature
+- Fully Responsive 
 
 ![App Screenshot](https://github.com/AakashTyagi354/ioit/assets/78840211/3e65966f-075d-4254-89ca-aa1b96170959)
 ## Installation
@@ -85,6 +86,26 @@ STRIPE_WEBHOOK_SECRET=""
 
 
 ## Demo
+
+### Dashboard Page 
+
+![App Screenshot](https://github.com/AakashTyagi354/MindCraftAi/assets/78840211/ea030885-20fa-45c8-88d9-3f45373e0afb)
+
+### Image genration 
+
+![App Screenshot](https://github.com/AakashTyagi354/MindCraftAi/assets/78840211/3703d4dc-527c-470a-bd8f-e9dce9301210)
+
+### Customer Care Support
+
+![App Screenshot](https://github.com/AakashTyagi354/MindCraftAi/assets/78840211/f8d7aaa2-3b3c-458a-bc46-3e0fcdfe8042)
+
+### Payment gateway
+
+![App Screenshot](https://github.com/AakashTyagi354/MindCraftAi/assets/78840211/663c2484-5650-465d-a1dc-f125bfe9d2b8)
+
+
+
+
 
 Here is the like link of the project
 
